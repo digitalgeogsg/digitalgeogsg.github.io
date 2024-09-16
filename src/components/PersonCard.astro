@@ -1,0 +1,18 @@
+---
+const { person } = Astro.props
+---
+
+<div class="max-w-m p-4 mb-2">
+    <div class="flex flex-col h-full p-6">
+      <img
+        class="mb-3 max-h-72 w-full object-cover"
+        src=`/assets/${person.img}`
+        alt=`Picture of ${person.name}`
+      />
+      <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">{person.name}</h5>
+      <span class="text-sm">{person.title}</span>
+      <a class="mb-6 text-sm" href={person.affil.url}>{person.affil.title}</a>
+      <span class="text-sm mb-6">{person.bio}</span>
+      <a href=`mailto:${person.email}` class="text-sm font-medium">{person.email}</a>
+    </div>
+</div>

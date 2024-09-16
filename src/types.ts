@@ -13,6 +13,18 @@ export type Site = {
   scheduledPostMargin: number;
 };
 
+export type Leadership = {
+  name: string;
+  img: string;
+  title: string;
+  email: string;
+  affil: {
+    title: string;
+    url: string;
+  };
+  bio: string;
+}[];
+
 export type SocialObjects = {
   name: keyof typeof socialIcons;
   href: string;
