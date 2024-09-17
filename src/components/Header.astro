@@ -13,24 +13,23 @@ const { activeNav } = Astro.props;
 <header>
   <div class="nav-container">
     <div class="top-nav-wrap">
-      <nav id="nav-menu" class="w-full justify-between ">
-          <a href="/" class=`flex logo items-center ${activeNav === "home" ? "active" : ""}`>
+      <nav id="nav-menu" class="w-full justify-between">
+          <a href="/" class=`flex sm:w-6/12 logo items-center ${activeNav === "home" ? "active" : ""}`>
             {
               LOGO_IMAGE.enable ? (
                   <img
+                    class="h-20 sm:h-20"
                     src={`/assets/${LOGO_IMAGE.svg ? "logo.svg" : "logo.png"}`}
                     alt={SITE.title}
-                    width={LOGO_IMAGE.width}
-                    height={LOGO_IMAGE.height}
                   />
-                  <p class="ml-4 sm:w-6/12 invisible sm:visible">{SITE.title}</p>
+                  <p class="ml-4 invisible sm:visible">{SITE.title}</p>
               ) : (
                 SITE.title
               )
             }
           </a>
           <button
-            class="hamburger-menu focus-outline"
+            class="hamburger-menu focus-outline h-16"
             aria-label="Open Menu"
             aria-expanded="false"
             aria-controls="menu-items"
@@ -102,10 +101,10 @@ const { activeNav } = Astro.props;
     @apply relative flex w-full items-start justify-between p-4 sm:items-center sm:py-8;
   }
   .logo {
-    @apply absolute py-1 font-semibold sm:static text-lg;
+    @apply absolute font-semibold sm:static text-lg;
   }
   .hamburger-menu {
-    @apply self-end p-2 sm:hidden;
+    @apply self-end sm:hidden;
   }
   .hamburger-menu svg {
     @apply h-6 w-6 scale-125 fill-skin-base;
