@@ -24,6 +24,13 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header activeNav="home" />
   <main id="main-content">
     <section id="hero">
+      <div class="w-full h-96 flex justify-center items-center">
+      <img 
+        src="/assets/logo_large.png" 
+        class="h-full"
+        aria-label="The logo of the Digital Geographies Specialty Group (a pixelated image of Earth with 'DGSG' overlaid)."
+        />
+      </div>
       <h1>{SITE.title}</h1>
       <p>
         {SITE.desc}
@@ -103,6 +110,12 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   #hero {
     @apply pb-6 pt-8;
   }
+  /* #hero {
+    background-image: url("/assets/logo_large.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  } */
   #hero h1 {
     @apply my-4 inline-block text-3xl font-bold sm:my-8 sm:text-5xl;
   }

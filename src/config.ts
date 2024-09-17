@@ -6,7 +6,7 @@ export const SITE: Site = {
   profile: "https://www.aag.org/groups/digital-geographies/",
   desc: "The Digital Geographies Specialty Group of the American Association of Geographers supports scholarship and pedagogy that advance our understanding of how digital objects and practices produce space, place, and social relations. We bring together a diverse community of scholars whose work centers the digital as object, subject and medium of geographical knowledge and practice.",
   title: "Digital Geographies Specialty Group",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "/assets/logo_large.png",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 5,
