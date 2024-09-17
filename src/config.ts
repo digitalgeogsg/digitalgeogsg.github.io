@@ -80,7 +80,7 @@ export const LEADERSHIP: Leadership = [
       title: "PhD Candidate, University of Wisconsin, Milwaukee",
       url: "https://uwm.edu/urban-studies/people/marseille-muriel/"
     },
-    bio: "Lorem ipsum blah blah blah."
+    bio: "Muriel is an urban geographer with research interests in the financialization of the urban creative economy, digital geographies, dual city narratives, historic preservation, and emotional geographies of place. She contributes to the discourse on urban revitalization by investigating the effects of material culture (theater houses) in neighborhoods in Chicago."
   },
   {
     name: "Nicole Bennett",
