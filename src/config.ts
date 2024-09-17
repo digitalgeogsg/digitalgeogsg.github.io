@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://digitalgeogsg.github.io", // replace this with your deployed domain
   author: "Digital Geographies Specialty Group",
   profile: "https://www.aag.org/groups/digital-geographies/",
-  desc: "The Digital Geographies Specialty Group of the American Association of Geographers supports scholarship and pedagogy that advance our understanding of how digital objects and practices produce space, place, and spatial relations. We bring together a diverse community of scholars whose work centers the digital as object, subject and medium of geographical knowledge and practice.",
+  desc: "The Digital Geographies Specialty Group of the American Association of Geographers supports scholarship and pedagogy that advance our understanding of how digital objects and practices produce space, place, and social relations. We bring together a diverse community of scholars whose work centers the digital as object, subject and medium of geographical knowledge and practice.",
   title: "Digital Geographies Specialty Group",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
@@ -19,10 +19,10 @@ export const LOCALE = {
 } as const;
 
 export const LOGO_IMAGE = {
-  enable: false,
-  svg: true,
-  width: 216,
-  height: 46,
+  enable: true,
+  svg: false,
+  width: 90,
+  height: 90,
 };
 
 export const LEADERSHIP: Leadership = [

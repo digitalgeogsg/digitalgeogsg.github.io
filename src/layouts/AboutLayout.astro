@@ -22,18 +22,18 @@ const { frontmatter } = Astro.props;
   <main id="main-content">
     <section id="about" class="prose mb-28 max-w-3xl prose-img:border-0">
       <h1 class="text-2xl tracking-wider sm:text-3xl">{frontmatter.title}</h1>
-      <p>{SITE.desc}</p>
+      <p class="italic">{SITE.desc}</p>
       <hr>
       <slot />
+      <h2>Leadership</h2>
+      <div class="flex flex-wrap justify-center w-full">
+        {
+          LEADERSHIP.map(leader => (
+            <PersonCard person={leader} />
+          ))
+        }
+      </div>
     </section>
-    <section id="leadership" class="prose mb-28 prose-img:border-0">
-    <h2>Leadership</h2>
-      {
-        LEADERSHIP.map(leader => (
-          <PersonCard person={leader} />
-        ))
-      }
-  </section>
   </main>
   <Footer />
 </Layout>
