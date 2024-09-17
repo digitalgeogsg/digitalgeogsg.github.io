@@ -1,18 +1,29 @@
 ---
+import { getCollection } from "astro:content";
 import Layout from "@layouts/Layout.astro";
 import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
 import Hr from "@components/Hr.astro";
+import MeetingsDropdown from "@components/MeetingsDropdown.astro";
+import getUniqueTags from "@utils/getUniqueTags";
 
-const { tag } = Astro.props;
+const posts = await getCollection("blog");
+
+const meetingCheck = (element:string) => element.includes("meeting-");
+
+const meetings = posts.filter(({ data }) => data.tags.some(meetingCheck));
+const meetingYears = getUniqueTags(meetings).map(({tag}) => tag).filter(tag => tag.includes("meeting")).map(tag => tag.replace(/^\D+/g, ''))
+
+const { year } = Astro.props;
 ---
 
 <Layout>
   <Header activeNav="annual-meeting" />
   <main id="main-content">
     <section id="hero">
-      <h1>#{tag}</h1>
+      <h1>{year} Annual Meeting</h1>
       <div>
+      <MeetingsDropdown years={meetingYears}/>
     </div>
     </section>
     <Hr /> 

@@ -4,15 +4,7 @@ import postFilter from "./postFilter";
 const getSortedPosts = (posts: CollectionEntry<"blog">[]) => {
   return posts
     .filter(postFilter)
-    .sort(
-      (a, b) =>
-        Math.floor(
-          new Date(b.data.modDatetime ?? b.data.pubDatetime).getTime() / 1000
-        ) -
-        Math.floor(
-          new Date(a.data.modDatetime ?? a.data.pubDatetime).getTime() / 1000
-        )
-    );
+    .sort((a,b) => (new Date(a.data.pubDate) < new Date(b.data.pubDate) ? 1 : ((new Date(b.data.pubDate) < new Date(a.data.pubDate)) ? -1 : 0)));
 };
 
 export default getSortedPosts;

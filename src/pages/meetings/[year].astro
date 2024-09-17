@@ -1,0 +1,86 @@
+---
+import { getCollection } from "astro:content";
+import getPostsByTag from "@utils/getPostsByTag";
+import getSortedPosts from "@utils/getSortedPosts";
+import getUniqueTags from "@utils/getUniqueTags";
+import Card from "@components/Card";
+import MeetingPosts from "@layouts/MeetingPosts.astro";
+import { SITE } from "@config";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("blog");
+  const sortedPosts = getSortedPosts(posts);
+  const meetingCheck = (element:string) => element.includes("meeting-");
+  const meetings = sortedPosts.filter(({ data }) => data.tags.some(meetingCheck));
+  const meetingYears = getUniqueTags(meetings).map(({tag}) => tag).filter(tag => tag.includes("meeting")).map(tag => tag.replace(/^\D+/g, ''))
+  
+  return meetingYears.map(year => ({
+    params: { year: year },
+    props: { posts: getPostsByTag(sortedPosts, "meeting".concat("-", year.toString())) }
+  }));
+}
+
+const { year } = Astro.params;
+const { posts } = Astro.props;
+---
+
+<MeetingPosts {year}>
+    {
+      posts.length > 0 && (
+        <>
+        <section id="recent-posts">
+          <ul>
+            {posts.map(
+              ({ data, slug }, index) =>
+                index < SITE.postPerIndex && (
+                  <Card
+                    href={`/posts/${slug}/`}
+                    frontmatter={data}
+                    secHeading={false}
+                  />
+                )
+            )}
+          </ul>
+        </section>
+        </>
+      )
+    }
+</MeetingPosts>
+
+<style>
+  /* ===== Hero Section ===== */
+  #hero {
+    @apply pb-6 pt-8;
+  }
+  #hero h1 {
+    @apply my-4 inline-block text-3xl font-bold sm:my-8 sm:text-5xl;
+  }
+  #hero .rss-link {
+    @apply mb-6;
+  }
+  #hero .rss-icon {
+    @apply mb-2 h-6 w-6 scale-110 fill-skin-accent sm:mb-3 sm:scale-125;
+  }
+  #hero p {
+    @apply my-2;
+  }
+  .social-wrapper {
+    @apply mt-4 flex flex-col sm:flex-row sm:items-center;
+  }
+  .social-links {
+    @apply mb-1 mr-2 whitespace-nowrap sm:mb-0;
+  }
+
+  /* ===== Featured & Recent Posts Sections ===== */
+  #featured,
+  #recent-posts {
+    @apply pb-6 pt-12;
+  }
+  #featured h2,
+  #recent-posts h2 {
+    @apply text-2xl font-semibold tracking-wide;
+  }
+  .all-posts-btn-wrapper {
+    @apply my-8;
+  }
+</style>
