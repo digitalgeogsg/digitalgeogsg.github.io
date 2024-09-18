@@ -1,0 +1,21 @@
+---
+author: Eric Robsky Huntley
+pubDate: 2024-09-17
+title: Sponsored Sessions (Running List)
+featured: false
+draft: false
+tags:
+  - digital geography
+  - detroit
+  - awards
+  - meeting-2025
+  - american association of geographers
+description: A running list of sponsored sessions for the 2025 AAG in Detroit.
+---
+
+This is a running list of sessions that the DGSG will be sponsoring for the upcoming AAG in Detroit. For more information on session sponsorship, [please see our previous post](https://digitalgeogsg.github.io/posts/2025-see-you-in-detroit/). We will be adding links to the sessions as they become available in the AAG's digital program.
+
+## Sponsored Sessions
+
++ "Politics of AI and the Environment." Organized by Jenny Goldstein (Cornell University) and Eric Nost (University of Guelph).
++ "Data, Housing, and Planning." Organized by Rob Kitchin, Juliette Davret, Carla Kayanan (Maynooth), and Taylor Shelton (Georgia State University).
