@@ -53,7 +53,7 @@ export const LEADERSHIP: Leadership = [
     name: "Will Payne, PhD",
     img: "will.jpg",
     title: "Secretary/Treasurer",
-    email: "ehuntley@mit.edu",
+    email: "will.b.payne@rutgers.edu",
     affil: {
       title: "Assistant Professor, Rutgers University",
       url: "https://bloustein.rutgers.edu/people/payne/"
@@ -64,7 +64,7 @@ export const LEADERSHIP: Leadership = [
     name: "Emma Fraser, PhD",
     img: "emma.png",
     title: "Board Member At-Large",
-    email: "ehuntley@mit.edu",
+    email: "emma.fraser@berkeley.edu",
     affil: {
       title: "Assistant Teaching Professor, University of California, Berkeley",
       url: "https://mediastudies.ugis.berkeley.edu/people/emma-fraser/"
