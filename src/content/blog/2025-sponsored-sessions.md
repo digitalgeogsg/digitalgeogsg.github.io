@@ -1,6 +1,6 @@
 ---
 author: Eric Robsky Huntley
-pubDate: 2024-09-17
+pubDate: 2024-09-18
 title: Sponsored Sessions (Running List)
 featured: false
 draft: false
@@ -19,3 +19,4 @@ This is a running list of sessions that the DGSG will be sponsoring for the upco
 
 + "Politics of AI and the Environment." Organized by Jenny Goldstein (Cornell University) and Eric Nost (University of Guelph).
 + "Data, Housing, and Planning." Organized by Rob Kitchin, Juliette Davret, Carla Kayanan (Maynooth), and Taylor Shelton (Georgia State University).
++ "Engaging Publics, Envisioning Futures: Geographic Scholarship in Action." Organized by Serin Houston (Mount Holyoke College) and Dan Trudeau (Macalester College).
