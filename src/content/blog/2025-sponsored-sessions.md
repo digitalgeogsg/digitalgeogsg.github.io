@@ -20,4 +20,4 @@ This is a running list of sessions that the DGSG will be sponsoring for the upco
 + "Politics of AI and the Environment." Organized by Jenny Goldstein (Cornell University) and Eric Nost (University of Guelph).
 + "Data, Housing, and Planning." Organized by Rob Kitchin, Juliette Davret, Carla Kayanan (Maynooth), and Taylor Shelton (Georgia State University).
 + "Engaging Publics, Envisioning Futures: Geographic Scholarship in Action." Organized by Serin Houston (Mount Holyoke College) and Dan Trudeau (Macalester College).
-+ "Globalization's New Trends: Digital Platform Geoeconomy, Geopolitics, and Uneven Development." Organized by Jane Zheng (UW Madison) and Hyejin Yoon (UW Milwaukee).
++ "Globalization's New Trends: Digital Platform Geoeconomy, Geopolitics, and Uneven Development." Organized by Jane Zheng (University of Wisconsin, Madison) and Hyejin Yoon (University of Wisconsin, Milwaukee).
