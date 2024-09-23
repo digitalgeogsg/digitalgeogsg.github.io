@@ -22,3 +22,4 @@ This is a running list of sessions that the DGSG will be sponsoring for the upco
 + "Engaging Publics, Envisioning Futures: Geographic Scholarship in Action." Organized by Serin Houston (Mount Holyoke College) and Dan Trudeau (Macalester College).
 + "Globalization's New Trends: Digital Platform Geoeconomy, Geopolitics, and Uneven Development." Organized by Jane Zheng (University of Wisconsin, Madison) and Hyejin Yoon (University of Wisconsin, Milwaukee).
 + "Media Matter(s) in Geography: On Theory, Genealogy, and Analysis of Media Spatiality." Organized by Jacob Saindon (University of Kentucky) and Matthew Wilson (University of Kentucky).
++ "Decoding the Quantitative Turn in Critical Geography." Organized by Julien Migozzi (University of Oxford and University of California, Berkeley) and Renee Tapp (University of Florida).
