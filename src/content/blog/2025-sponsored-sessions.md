@@ -24,3 +24,4 @@ This is a running list of sessions that the DGSG will be sponsoring for the upco
 + "Media Matter(s) in Geography: On Theory, Genealogy, and Analysis of Media Spatiality." Organized by Jacob Saindon (University of Kentucky) and Matthew Wilson (University of Kentucky).
 + "Decoding the Quantitative Turn in Critical Geography." Organized by Julien Migozzi (University of Oxford and University of California, Berkeley) and Renee Tapp (University of Florida).
 + "Spaces of Digital Labor: Automation, Platforms, and Urban Economies in the 21st Century." Organized by Alex Tarr (University of Manchester) and Dillon Mahmoudi (University of Maryland, Baltimore County).
++ "AI and the Global Climate Crisis." Organized by Ryan Burns (University of Washington, Bothell and University of Calgary) and Katherine Harrington (National Science Foundation).
