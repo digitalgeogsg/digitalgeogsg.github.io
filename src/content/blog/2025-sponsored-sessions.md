@@ -25,4 +25,5 @@ This is a running list of sessions that the DGSG will be sponsoring for the upco
 + "Decoding the Quantitative Turn in Critical Geography." Organized by Julien Migozzi (University of Oxford and University of California, Berkeley) and Renee Tapp (University of Florida).
 + "Spaces of Digital Labor: Automation, Platforms, and Urban Economies in the 21st Century." Organized by Alex Tarr (Newcastle University) and Dillon Mahmoudi (University of Maryland, Baltimore County).
 + "AI and the Global Climate Crisis." Organized by Ryan Burns (University of Washington, Bothell and University of Calgary) and Katherine Harrington (National Science Foundation).
-+ "Digital ⇔ Spectacle ⇔ Material." Jim Thatcher (Oregon State University), Amy Zhang (University of Manchester), and Craig Dalton (Hofstra University).
++ "Digital ⇔ Spectacle ⇔ Material." Organized by Jim Thatcher (Oregon State University), Amy Zhang (University of Manchester), and Craig Dalton (Hofstra University).
++ "Technology, Power, and the City: Reconnecting the Dots in Turbulent Times." Organized by Will Payne (Rutgers University), Jovanna Rosen (Rutgers University), and Luis Alvarez León (Dartmouth College).
