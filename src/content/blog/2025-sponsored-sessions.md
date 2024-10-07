@@ -27,3 +27,4 @@ This is a running list of sessions that the DGSG will be sponsoring for the upco
 + "AI and the Global Climate Crisis." Organized by Ryan Burns (University of Washington, Bothell and University of Calgary) and Katherine Harrington (National Science Foundation).
 + "Digital ⇔ Spectacle ⇔ Material." Organized by Jim Thatcher (Oregon State University), Amy Zhang (University of Manchester), and Craig Dalton (Hofstra University).
 + "Technology, Power, and the City: Reconnecting the Dots in Turbulent Times." Organized by Will Payne (Rutgers University), Jovanna Rosen (Rutgers University), and Luis Alvarez León (Dartmouth College).
++ "The Interesting Data and Methods Session." Organized by Rachel Franklin (Newcastle University), Dani Arribas-Bel (University of Liverpool), Elizabeth Delmelle (University of Pennsylvania), and Isabelle Nilsson (University of North Carolina at Charlotte).
