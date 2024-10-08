@@ -29,3 +29,4 @@ This is a running list of sessions that the DGSG will be sponsoring for the upco
 + "Technology, Power, and the City: Reconnecting the Dots in Turbulent Times." Organized by Will Payne (Rutgers University), Jovanna Rosen (Rutgers University), and Luis Alvarez León (Dartmouth College).
 + "The Interesting Data and Methods Session." Organized by Rachel Franklin (Newcastle University), Dani Arribas-Bel (University of Liverpool), Elizabeth Delmelle (University of Pennsylvania), and Isabelle Nilsson (University of North Carolina at Charlotte).
 + "Minor Histories of Geographic Information Systems." Organized by Jack Swab (University of Tennessee, Knoxville) and Ian Spangler (Leventhal Map & Education Center at the Boston Public Library)
++ "Urban AI Spectrums." Organized by Federico Cugurullo (Trinity College Dublin), Ayona Datta (University College London), and Federico Caprotti (University of Exeter).
