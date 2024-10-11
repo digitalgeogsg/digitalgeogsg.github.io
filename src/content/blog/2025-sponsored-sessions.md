@@ -31,3 +31,4 @@ This is a running list of sessions that the DGSG will be sponsoring for the upco
 + "Minor Histories of Geographic Information Systems." Organized by Jack Swab (University of Tennessee, Knoxville) and Ian Spangler (Leventhal Map & Education Center at the Boston Public Library)
 + "Urban AI Spectrums." Organized by Federico Cugurullo (Trinity College Dublin), Ayona Datta (University College London), and Federico Caprotti (University of Exeter).
 + Author Meets Critics: _Artificial Intelligence and the City: Urbanistic Perspectives on AI_, edited by Federico Cugurullo, Federico Caprotti, Matthew Cook, Andrew Karnoven, Pauline McGuirk, and Simon Marvin (Routledge 2024). Organized by Federico Cugurullo (Trinity College Dublin), Simon Marvin (University of Sheffield), and  Federico Caprotti (University of Exeter).
++ "Social Media Geopolitics." Organized by Davide Giacomo Zoppolato (West Virginia University) and Karen Culcasi (West Virginia University).
