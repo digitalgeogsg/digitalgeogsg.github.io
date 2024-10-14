@@ -32,3 +32,4 @@ This is a running list of sessions that the DGSG will be sponsoring for the upco
 + "Urban AI Spectrums." Organized by Federico Cugurullo (Trinity College Dublin), Ayona Datta (University College London), and Federico Caprotti (University of Exeter).
 + Author Meets Critics: _Artificial Intelligence and the City: Urbanistic Perspectives on AI_, edited by Federico Cugurullo, Federico Caprotti, Matthew Cook, Andrew Karnoven, Pauline McGuirk, and Simon Marvin (Routledge 2024). Organized by Federico Cugurullo (Trinity College Dublin), Simon Marvin (University of Sheffield), and  Federico Caprotti (University of Exeter).
 + "Social Media Geopolitics." Organized by Davide Giacomo Zoppolato (West Virginia University) and Karen Culcasi (West Virginia University).
++ "Logistical Landscapes: Examining the Landed Dimensions of Logistics and Platform Economies." Organized by Aman Banerji (Cornell University) and Laura Schmahmann (University of California, Berkeley).
