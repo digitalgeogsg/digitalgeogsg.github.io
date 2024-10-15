@@ -36,3 +36,4 @@ This is a running list of sessions that the DGSG will be sponsoring for the upco
 + "Chinese Digital Infrastructural Expansion in China and Beyond: Platforms, E-commerce and Security." Organized by Xiaoling Chen (University of Colorado Boulder), Dylan Brady (National University of Singapore), and Tim Oakes (University of Colorado Boulder).
 + "Feminist and Transformative Mapping Tools and Praxis." Organized by Meghan Kelly (Syracuse University), Núria Font (Pompeu Fabra University), and Maria Rodó-Zárate (Pompeu Fabra University).
 + "Spatial Social Networks." Organized by Clio Andris (Georgia Tech) and Yujie Hu (University of Florida).
++ "Platform(ed) Financial Subjectivity: Researching Platform Logic and Financial Subject Formation in the Digital Finance Ecosystem." Organized by Desiree Fields (University of California, Berkeley) and Jessa Loomis (Newcastle University).
