@@ -35,3 +35,4 @@ This is a running list of sessions that the DGSG will be sponsoring for the upco
 + "Logistical Landscapes: Examining the Landed Dimensions of Logistics and Platform Economies." Organized by Aman Banerji (Cornell University) and Laura Schmahmann (University of California, Berkeley).
 + "Chinese Digital Infrastructural Expansion in China and Beyond: Platforms, E-commerce and Security." Organized by Xiaoling Chen (University of Colorado Boulder), Dylan Brady (National University of Singapore), and Tim Oakes (University of Colorado Boulder).
 + "Feminist and Transformative Mapping Tools and Praxis." Organized by Meghan Kelly (Syracuse University), Núria Font (Pompeu Fabra University), and Maria Rodó-Zárate (Pompeu Fabra University).
++ "Spatial Social Networks." Organized by Clio Andris (Georgia Tech) and Yujie Hu (University of Florida).
