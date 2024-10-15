@@ -38,3 +38,4 @@ This is a running list of sessions that the DGSG will be sponsoring for the upco
 + "Spatial Social Networks." Organized by Clio Andris (Georgia Tech) and Yujie Hu (University of Florida).
 + "Platform(ed) Financial Subjectivity: Researching Platform Logic and Financial Subject Formation in the Digital Finance Ecosystem." Organized by Desiree Fields (University of California, Berkeley) and Jessa Loomis (Newcastle University).
 + "Spatial Data Sharing: Questions of Ownership, Platforms, and Governance." Organized by Peter Johnson (University of Waterloo) and Pamela Robinson (Toronto Metropolitan University).
++ "Advancing Visual Methods in Geography." Organized by Jonathan Cinnamon (University of British Columbia Okanagan), Agnieszka Leszczynski (Western University), and Lindi Jahiu (Western University).
