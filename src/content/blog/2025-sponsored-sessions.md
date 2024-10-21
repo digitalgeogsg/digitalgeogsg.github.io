@@ -41,4 +41,4 @@ This is a running list of sessions that the DGSG will be sponsoring for the upco
 + "Advancing Visual Methods in Geography." Organized by Jonathan Cinnamon (University of British Columbia Okanagan), Agnieszka Leszczynski (Western University), and Lindi Jahiu (Western University).
 + "Digital Geographies of Rural and Environmental Archives." Organized by Ricardo Barbosa, Jr. (Clark University), Estevan Coca (Federal University of Alfenas), and Gerónimo Barrera de la Torre (University of California, Berkeley).
 + "Citizen Participation in Urban e-Planning." Organized by Carlos Nunes Silva (University of Lisbon).
-
++ "Critical Geographies of Representations." Organized by Bethany Craig (University of Kentucky) and Zachary Cudney (University of Washington).
