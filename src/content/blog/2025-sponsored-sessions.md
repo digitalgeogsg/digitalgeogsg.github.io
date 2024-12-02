@@ -45,3 +45,4 @@ This is a running list of sessions that the DGSG will be sponsoring for the upco
 + "Human-Centered Geospatial Data Science." Organized by Jiaxin Feng (Dartmouth College), Hoeyun Kwon (The City University of New York), and Yuhao Kang (The University of Texas at Austin).
 + "Insurgent Life! Insisting on Life through Anti-Colonial Digital Geographies." Organized by Isaac Rivera (University of Colorado Boulder), Amber Orozco (University of Georgia), Maya Henderson (University of Georgia), and Claire Fitch (University of Texas at Austin).
 + "Nature, Surveillance, Goverannce: Experiments in Smart Earth." Organized by Samuel Hertz (Royal Holloway, University of London) and Clare Beer (Loyola Marymount University).
++ "The Memeing of Geography: Digital Placemaking and the Evolution of Spatial Imaginaries." Organized by Aleem Mahabir (University of the West Indies) and Robert Kinlocke (University of the West Indies).
