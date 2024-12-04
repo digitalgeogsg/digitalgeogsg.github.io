@@ -47,3 +47,4 @@ This is a running list of sessions that the DGSG will be sponsoring for the upco
 + "Nature, Surveillance, Goverannce: Experiments in Smart Earth." Organized by Samuel Hertz (Royal Holloway, University of London) and Clare Beer (Loyola Marymount University).
 + "The Memeing of Geography: Digital Placemaking and the Evolution of Spatial Imaginaries." Organized by Aleem Mahabir (University of the West Indies) and Robert Kinlocke (University of the West Indies).
 + "Reinventing Digital Work." Organized by Weiqiang Lin (National University of Singapore) and Harithul Hasanain (National University of Singapore).
++ "From Tech Hubs to Black Meccas: Enduring Inequality in the Thriving City." Organized by Max Buchholz (University of California, Berkeley) and Justin Hosbey (University of California, Berkeley).
