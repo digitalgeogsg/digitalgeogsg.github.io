@@ -19,10 +19,10 @@ const meetingPosts = getPostsByTag(sortedPosts, "meeting".concat("-", SITE.curre
         <section id="recent-posts">
           <ul>
             {meetingPosts.map(
-              ({ data, slug }, index) =>
+              ({ data, id }, index) =>
                 index < SITE.postPerIndex && (
                   <Card
-                    href={`/posts/${slug}/`}
+                    href={`/posts/${id}/`}
                     frontmatter={data}
                     secHeading={false}
                   />
