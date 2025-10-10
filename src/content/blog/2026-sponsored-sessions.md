@@ -21,6 +21,11 @@ This is a running list of sessions that the DGSG will be sponsoring for the upco
 + "Groundtruthiness, or, How to Lie with Satellites." Organized by Evangeline McGlynn (Harvard University) and Richard Nisa (Carnegie-Melon University).
 + "Schemes, Scams, and Flim-flam: Putting the 'Con' in Economic Geography." Organized by Will B. Payne (Rutgers University),
 Desiree Fields (University of California, Berkeley), Jovan Scott Lewis (University of California, Berkeley).
-+ "Smart Urban Governance & e-Planning." Organized by Carlos Nunes Silva (Lisbon, Portugal)
++ "Smart Urban Governance & e-Planning." Organized by Carlos Nunes Silva (Lisbon, Portugal).
 + "This Session is Haunted: Local Legends, Monsters, and Chimera." Organized by Alexis Wood (University of California, Berkeley) and J. Lee Crandall (University of California, Berkeley).
 + "Post-Truth Geographies Forever? Geographies of Post-Truth in the Age of Trump." Organized by Barney Warf (University of Kansas) and Jim Proctor (Clark University).
++ "Graduate Education in the Age of LLM." Organized by Timur Hammond (Syracuse University), Bob Wilson (Syracuse University), 
+Jane Read (Syracuse University).
++ "Platforming Urban Space." Organized by Triparnee Kushari (Rutgers University), Nasha Virata (Rutgers University), Will B. Payne (Rutgers University), Jovanna Rosen (Loyola Marymount University), Luis F. Alvarez León (Dartmouth College).
++ "Insurance, Climate Change, and Spatial Governance." Oragnized by Stephen J. Collier (UC Berkeley), Savannah Cox (University of Sheffield), Leigh Johnson (University of Oregon), Jathan Sadowski (Monash University).
++ "Digital Land: Emergent Tensions, Contradictions, Futures." Organized by Joachim Stassart (University of British Columbia) and Kendra Kintzi (New York University).
