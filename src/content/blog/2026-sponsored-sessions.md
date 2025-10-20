@@ -29,3 +29,5 @@ Jane Read (Syracuse University).
 + "Platforming Urban Space." Organized by Triparnee Kushari (Rutgers University), Nasha Virata (Rutgers University), Will B. Payne (Rutgers University), Jovanna Rosen (Loyola Marymount University), Luis F. Alvarez León (Dartmouth College).
 + "Insurance, Climate Change, and Spatial Governance." Oragnized by Stephen J. Collier (UC Berkeley), Savannah Cox (University of Sheffield), Leigh Johnson (University of Oregon), Jathan Sadowski (Monash University).
 + "Digital Land: Emergent Tensions, Contradictions, Futures." Organized by Joachim Stassart (University of British Columbia) and Kendra Kintzi (New York University).
++ "Disability GIS." Organized by Shiloh Deitz (Saint Louis University) and Victoria Fast (University of Calgary).
++ "Mapping and Measuring Structural Racism and Discrimination in the US: Advancing Place-Based GIScience for Health Equity." Organized by Debs Ghos (University of Connecticut), Sabina Bhandari (University of Connecticut), and Youshuang Hu (University of Connecticut).
