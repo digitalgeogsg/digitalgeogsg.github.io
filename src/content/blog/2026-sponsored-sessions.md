@@ -31,3 +31,4 @@ Jane Read (Syracuse University).
 + "Digital Land: Emergent Tensions, Contradictions, Futures." Organized by Joachim Stassart (University of British Columbia) and Kendra Kintzi (New York University).
 + "Disability GIS." Organized by Shiloh Deitz (Saint Louis University) and Victoria Fast (University of Calgary).
 + "Mapping and Measuring Structural Racism and Discrimination in the US: Advancing Place-Based GIScience for Health Equity." Organized by Debs Ghos (University of Connecticut), Sabina Bhandari (University of Connecticut), and Youshuang Hu (University of Connecticut).
++ "But why is GIS like that? Critical approaches to geography and software." Organized by Alex Tarr (Newcastle University) and Ingrid Burrington (University of Delaware).
