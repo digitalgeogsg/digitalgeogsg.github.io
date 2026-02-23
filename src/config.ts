@@ -31,9 +31,9 @@ export const LEADERSHIP: Leadership = [
     name: "Ryan Burns, PhD",
     img: "ryan.jpg",
     title: "Chair",
-    email: "ryan.burns1@ucalgary.ca",
+    email: "burnsr77@gmail.com",
     affil: {
-      title: "-----",
+      title: "Affiliate Professor, University of Washington Bothell",
       url: "https://profiles.ucalgary.ca/ryan-burns"
     },
     bio: "Ryan works at the intersections of GIScience, digital human geographies, urban studies, political economy, and Science & Technology Studies. Much of his research questions how people, places, and knowledge come to be encoded as data, and then analyzed and acted upon through other digital objects, practices, and spatialities."
@@ -73,7 +73,7 @@ export const LEADERSHIP: Leadership = [
   },
 {
   name: "Genevieve Reid",
-  img: "",
+  img: "genevieve.jpg",
   title: "Board Member At-Large",
   email: "",
   affil: {
@@ -95,7 +95,7 @@ export const LEADERSHIP: Leadership = [
   },
   {
     name: "Alexis E. Wood",
-    img: "alexis.jpg",
+    img: "alexis.png",
     title: "Student Representative",
     email: "aew78@berkeley.edu",
     affil: {
