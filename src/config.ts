@@ -76,7 +76,10 @@ export const LEADERSHIP: Leadership = [
     img: "",
     title: "Board Member At-Large",
     email: "",
-    affil: {greid@fiu.edu}
+    affil: {
+  title: "Assistant Professor, Florida International University",
+  url: "https://sipa.fiu.edu/people/faculty/global-and-sociocultural-studies/genevieve-reid.html/"
+}
       title: "Assistant Professor, Florida International University",
       url: "https://sipa.fiu.edu/people/faculty/global-and-sociocultural-studies/genevieve-reid.html/"
     },
