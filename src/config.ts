@@ -28,31 +28,20 @@ export const LOGO_IMAGE = {
 
 export const LEADERSHIP: Leadership = [
   {
-    name: "Eric Robsky Huntley, PhD, GISP",
-    img: "eric.jpg",
-    title: "Chair",
-    email: "ehuntley@mit.edu",
-    affil: {
-      title: "Lecturer in Urban Science and Planning, Massachusetts Institute of Technology",
-      url: "https://dusp.mit.edu/people/eric-robsky-huntley"
-    },
-    bio: "Eric is a GIScientist, geographer, and urban planner whose research practice focuses on what mapping and spatial data science can do for movements for social justice. In particular, they are interested in 'mapping up', or approaches to mapping and spatial data science that emphasize the role of power and institutions in producing inequality."
-  },
-  {
     name: "Ryan Burns, PhD",
-    title: "Vice Chair",
     img: "ryan.jpg",
+    title: "Chair",
     email: "ryan.burns1@ucalgary.ca",
     affil: {
-      title: "Associate Professor of Geography, University of Calgary",
+      title: "-----",
       url: "https://profiles.ucalgary.ca/ryan-burns"
     },
     bio: "Ryan works at the intersections of GIScience, digital human geographies, urban studies, political economy, and Science & Technology Studies. Much of his research questions how people, places, and knowledge come to be encoded as data, and then analyzed and acted upon through other digital objects, practices, and spatialities."
   },
   {
     name: "Will Payne, PhD",
+    title: "Vice Chair",
     img: "will.jpg",
-    title: "Secretary/Treasurer",
     email: "will.b.payne@rutgers.edu",
     affil: {
       title: "Assistant Professor, Rutgers University",
@@ -63,46 +52,57 @@ export const LEADERSHIP: Leadership = [
   {
     name: "Emma Fraser, PhD",
     img: "emma.png",
-    title: "Board Member At-Large",
-    email: "emma.fraser@berkeley.edu",
+    title: "Secretary/Treasurer",
+    email: "Board Member At-Large",
     affil: {
-      title: "Assistant Teaching Professor, University of California, Berkeley",
-      url: "https://mediastudies.ugis.berkeley.edu/people/emma-fraser/"
+      title: "Assistant Professor, University of California, Berkeley",
+      url: "https://geography.berkeley.edu/assistant-professor-emma-fraser"
     },
     bio: "Emma’s research considers digital culture, space and place, modern ruins, and visual media in relation to urban experience and the writings of Walter Benjamin and the Frankfurt School. Emma also researches and writes about games and play across sociology, geography, game studies and media and cultural theory."
   },
   {
-    name: "Muriel Marseille",
-    img: "muriel.jpg",
+    name: "Shiloh Deitz, PhD",
+    img: "shiloh.jpg",
     title: "Board Member At-Large",
-    email: "marseille.muriel@gmail.com",
+    email: "shiloh.deitz@slu.edu",
     affil: {
-      title: "PhD Candidate, University of Wisconsin, Milwaukee",
-      url: "https://uwm.edu/urban-studies/people/marseille-muriel/"
+      title: "Assistant Professor, Saint Louis University",
+      url: "https://www.slu.edu/arts-and-sciences/sociology-anthropology/faculty/shiloh-deitz.php"
     },
-    bio: "Muriel is an urban geographer with research interests in the financialization of the urban creative economy, digital geographies, dual city narratives, historic preservation, and emotional geographies of place. She contributes to the discourse on urban revitalization by investigating the effects of material culture (theater houses) in neighborhoods in Chicago."
+    bio: "Shiloh Deitz is an Assistant Professor of Sociology at Saint Louis University. She studies infrastructural inequality and its uneven effects, applying disability justice theory to reimagine data science, AI, and GIS. "
   },
   {
-    name: "Nicole Bennett",
-    img: "nicole.jpg",
-    title: "Student Representative",
-    email: "nmbenn@iu.edu",
-    affil: {
-      title: "PhD Candidate, Indiana University",
-      url: "https://geography.indiana.edu/about/graduate-students/bennett-nicole.html"
+    name: "Genevieve Reid",
+    img: "",
+    title: "Board Member At-Large",
+    email: "",
+    affil: {greid@fiu.edu}
+      title: "Assistant Professor, Florida International University",
+      url: "https://sipa.fiu.edu/people/faculty/global-and-sociocultural-studies/genevieve-reid.html/"
     },
-    bio: "Nicole Bennett is a human geographer interested in the intersection of digital and physical space. The context in which Nicole researches is how digital space and physical space interact during times of humanitarian crisis."
+    bio: "Genevieve's research looks at issues of spatial data science in Indigenous contexts and adopts a critical GIScience perspective to interrogate ways in which mapping and geospatial technologies reinforce power dynamics in society. "
   },
   {
-    name: "Tejaswi Polimetla",
-    img: "tejaswi.jpg",
+    name: "Nasha Virata",
+    img: "nasha.jpg",
     title: "Student Representative",
-    email: "tpolimetla@gmail.com",
+    email: "nasha.virata@rutgers.edu",
     affil: {
-      title: "Master of Science Candidate, Harvard University.",
-      url: "https://seas.harvard.edu/person/tejaswi-polimetla"
+      title: "PhD Candidate, Rutgers University",
+      url: "-"
     },
-    bio: "Tejaswi is a certified data enthusiast with a love for using technical tools to uncover the secrets behind human behavior."
+    bio: "Nasha is a PhD Candidate in Planning and Public Policy at Rutgers University. Her research combines spatial, computational and qualitative analyses to trace how digital platforms reorganize urban space while channeling value into transnational circuits of capital."
+  },
+  {
+    name: "Alexis E. Wood",
+    img: "alexis.jpg",
+    title: "Student Representative",
+    email: "aew78@berkeley.edu",
+    affil: {
+      title: "PhD Student, University of California, Berkeley.",
+      url: "https://geography.berkeley.edu/alexis-e-wood"
+    },
+    bio: "digital geographies, climate change and rural socio-political movements, oh my."
   }
 ];
 
