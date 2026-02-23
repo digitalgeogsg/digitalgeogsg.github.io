@@ -53,7 +53,7 @@ export const LEADERSHIP: Leadership = [
     name: "Emma Fraser, PhD",
     img: "emma.png",
     title: "Secretary/Treasurer",
-    email: "Board Member At-Large",
+    email: "emma.fraser@berkeley.edu",
     affil: {
       title: "Assistant Professor, University of California, Berkeley",
       url: "https://geography.berkeley.edu/assistant-professor-emma-fraser"
@@ -71,20 +71,17 @@ export const LEADERSHIP: Leadership = [
     },
     bio: "Shiloh Deitz is an Assistant Professor of Sociology at Saint Louis University. She studies infrastructural inequality and its uneven effects, applying disability justice theory to reimagine data science, AI, and GIS. "
   },
-  {
-    name: "Genevieve Reid",
-    img: "",
-    title: "Board Member At-Large",
-    email: "",
-    affil: {
-  title: "Assistant Professor, Florida International University",
-  url: "https://sipa.fiu.edu/people/faculty/global-and-sociocultural-studies/genevieve-reid.html/"
-}
-      title: "Assistant Professor, Florida International University",
-      url: "https://sipa.fiu.edu/people/faculty/global-and-sociocultural-studies/genevieve-reid.html/"
-    },
-    bio: "Genevieve's research looks at issues of spatial data science in Indigenous contexts and adopts a critical GIScience perspective to interrogate ways in which mapping and geospatial technologies reinforce power dynamics in society. "
+{
+  name: "Genevieve Reid",
+  img: "",
+  title: "Board Member At-Large",
+  email: "",
+  affil: {
+    title: "Assistant Professor, Florida International University",
+    url: "https://sipa.fiu.edu/people/faculty/global-and-sociocultural-studies/genevieve-reid.html/"
   },
+  bio: "Genevieve's research looks at issues of spatial data science in Indigenous contexts and adopts a critical GIScience perspective to interrogate ways in which mapping and geospatial technologies reinforce power dynamics in society."
+},
   {
     name: "Nasha Virata",
     img: "nasha.jpg",
