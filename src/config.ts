@@ -72,7 +72,7 @@ export const LEADERSHIP: Leadership = [
     bio: "Shiloh Deitz is an Assistant Professor of Sociology at Saint Louis University. She studies infrastructural inequality and its uneven effects, applying disability justice theory to reimagine data science, AI, and GIS. "
   },
 {
-  name: "Genevieve Reid",
+  name: "Genevieve Reid, PhD",
   img: "genevieve.jpg",
   title: "Board Member At-Large",
   email: "",
